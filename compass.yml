@@ -1,0 +1,16 @@
+name: go
+id: ari:cloud:compass:89436501-45fd-498f-9c7c-b0db10b968cb:component/d819e7ce-7ec1-48ae-b718-cb3459fc6e06/eed81054-28be-4be7-bde1-d634ec211b13
+description: The Go programming language
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/codeprosorg/go
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
